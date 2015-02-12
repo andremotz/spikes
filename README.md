@@ -1,4 +1,4 @@
 spikes
 ======
 
-datavis to come
+Prototype for Soundcloud-DataVis (project title: Spikes)
